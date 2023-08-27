@@ -1,0 +1,12 @@
+/tmp
+*/.terraform
+.terraform
+*/.terraform.lock.hcl
+.terraform.lock.hcl
+*/*.tfstate
+*/*.tfstate.backup
+*.tfstate
+*.tfstate.backup
+*.out
+*-key*
+credenciais.txt
