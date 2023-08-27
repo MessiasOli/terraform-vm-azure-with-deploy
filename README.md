@@ -28,7 +28,7 @@ Este projeto é uma implementação DevOps que automatiza o deployment de uma ap
 
 1. **Clonar Repositório**
     ```bash
-    git clone https://github.com/[seu-usuario]/[nome-do-repo].git
+    git clone https://github.com/MessiasOli/terraform-vm-azure-with-deploy.git
     ```
 2. **Inicializar Terraform**
     ```bash
